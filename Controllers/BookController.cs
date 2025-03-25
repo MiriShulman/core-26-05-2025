@@ -1,15 +1,18 @@
 using Microsoft.AspNetCore.Mvc;
+using OurApi.Interfaces;
 using OurApi.Models;
-using OurApi.Services;
+// using OurApi.Services;
 namespace OurApi.Controllers;
 [ApiController]
 [Route("[controller]")]
 public class BookController : ControllerBase
 {
+        IBookService BookService;
+
     [HttpGet]
-    public ActionResult<IEnumerable<Book>> Get()
+    public ActionResult<IEnumerable<Book>> GetAll()
     {
-        return BookService.Get();
+        return BookService.GetAll();
     }
     [HttpGet("{id}")]
     public ActionResult<Book> Get(int id)

@@ -63,3 +63,14 @@ C:\Users\1\Documents\מירי לימודים\יד\core\שלי\firstProj\obj\Debu
 C:\Users\1\Documents\מירי לימודים\יד\core\שלי\firstProj\obj\Debug\net8.0\firstProj.genruntimeconfig.cache
 C:\Users\1\Documents\מירי לימודים\יד\core\שלי\firstProj\obj\Debug\net8.0\ref\firstProj.dll
 C:\Users\1\Documents\מירי לימודים\יד\core\שלי\firstProj\obj\Debug\net8.0\firstProj.sourcelink.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\firstProj.csproj.AssemblyReference.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\firstProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\firstProj.AssemblyInfoInputs.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\firstProj.AssemblyInfo.cs
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\firstProj.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\firstProj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\firstProj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\firstProj.sourcelink.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\firstProj.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\refint\firstProj.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\firstProj.pdb

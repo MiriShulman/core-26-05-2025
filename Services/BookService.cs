@@ -1,7 +1,9 @@
-using Microsoft.AspNetCore.Mvc;
+// using Microsoft.AspNetCore.Mvc;
 using OurApi.Models;
+using OurApi.Interfaces;
+
 namespace OurApi.Services {
-    public static class BookService 
+    public class BookService:IBookService
     {
         private static List<Book> listBooks;
         static BookService()
@@ -11,16 +13,13 @@ namespace OurApi.Services {
                 new Book {Id=2, Name = "מהלהלל", Auther = "מיה קינן", Price = 70 , Date= DateOnly.FromDateTime(DateTime.Now.AddYears(-2)) }
             };
         }
-        public static List<Book> Get(){
-            return listBooks;
-        }
-        public static Book Get(int id){
+        public Book Get(int id){
             var book= listBooks.FirstOrDefault(b=> b.Id==id);
     #pragma warning disable CS8603 // Possible null reference return.
             return book;
     #pragma warning restore CS8603 // Possible null reference return.
         }
-        public static int Insert(Book newBook)
+        public int Insert(Book newBook)
         {
             if(newBook == null ||  String.IsNullOrWhiteSpace(newBook.Name) || newBook.Price <=0 )
                 return-1;   
@@ -29,7 +28,7 @@ namespace OurApi.Services {
             listBooks.Add(newBook);
             return newBook.Id;
         }
-        public static bool Update(int id ,Book book)
+        public bool Update(int id ,Book book)
         {
             if(book == null || book.Id!=id|| string.IsNullOrWhiteSpace(book.Name) || book.Price <=0)
                 return false;
@@ -40,7 +39,7 @@ namespace OurApi.Services {
             currentBook.Price = book.Price;
             return true;
         }
-        public static bool Delete(int id)
+        public bool Delete(int id)
         {
             var currentBook= listBooks.FirstOrDefault(b=> b.Id==id);
             if(currentBook == null)
@@ -48,6 +47,11 @@ namespace OurApi.Services {
             int index = listBooks.IndexOf(currentBook);
             listBooks.RemoveAt(index);
             return true;
+        }
+
+        public List<Book> GetAll()
+        {
+            return listBooks;
         }
     }
 }

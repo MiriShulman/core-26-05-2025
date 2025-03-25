@@ -1,4 +1,4 @@
-namespace firstProj;
+namespace OurApi;
 
 public class WeatherForeCast
 {

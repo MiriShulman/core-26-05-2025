@@ -1,4 +1,4 @@
-using Microsoft.OpenApi.Models;
+// using Microsoft.OpenApi.Models;
 namespace OurApi.Models {
     public class Book
     {
@@ -7,7 +7,6 @@ namespace OurApi.Models {
         public string?  Auther{get; set;}
         public double Price { get; set; }
         public DateOnly Date { get; set; }
-
         public Book() {
 
         }
