@@ -1,0 +1,23 @@
+[
+    {
+        "Id": 1,
+        "Password": "DateTime.Now",
+        "Name": "מאיר כהן",
+        "address": "רחוב החרדים 1, ירושלים",
+        "BirthDate": "1985-01-01"
+    },
+    {
+        "Id": 2, 
+        "Password": "DateTime.Now",
+        "Name": "חיים לוי",
+        "address": "רחוב התורה 2, בני ברק",
+        "BirthDate": "1990-05-15"
+    },
+    {
+        "Id": 3,
+        "Password": "DateTime.Now",
+        "Name": "יעקב פישר",
+        "address": "רחוב חסידים 3, מודיעין עילית",
+        "BirthDate": "1982-10-30"
+    }
+]

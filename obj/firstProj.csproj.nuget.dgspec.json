@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\שיעור 3\\firstProj.csproj": {}
+    "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\firstProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\שיעור 3\\firstProj.csproj": {
+    "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\firstProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\שיעור 3\\firstProj.csproj",
+        "projectUniqueName": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\firstProj.csproj",
         "projectName": "firstProj",
-        "projectPath": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\שיעור 3\\firstProj.csproj",
+        "projectPath": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\firstProj.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\שיעור 3\\obj\\",
+        "outputPath": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.9.0, )"
             }
           },
           "imports": [

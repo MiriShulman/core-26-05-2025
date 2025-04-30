@@ -1,17 +1,19 @@
 // using Microsoft.AspNetCore.Mvc;
 using OurApi.Models;
 using OurApi.Interfaces;
+using OurApi.Services;
 
 namespace OurApi.Services {
     public class BookService:IBookService
     {
-        private static List<Book> listBooks;
-        static BookService()
+        private List<Book> listBooks;
+        public BookService()
         {
             listBooks = new List<Book>{
                 new Book {Id=1, Name = "איסתרק", Auther = "מיה קינן", Price = 70, Date= DateOnly.FromDateTime(DateTime.Now.AddYears(-2)) },
                 new Book {Id=2, Name = "מהלהלל", Auther = "מיה קינן", Price = 70 , Date= DateOnly.FromDateTime(DateTime.Now.AddYears(-2)) }
             };
+            System.Console.WriteLine(1);
         }
         public Book Get(int id){
             var book= listBooks.FirstOrDefault(b=> b.Id==id);
@@ -51,7 +53,15 @@ namespace OurApi.Services {
 
         public List<Book> GetAll()
         {
+            Console.WriteLine(2);
             return listBooks;
         }
     }
+    // public static class BooksUtilitiesConst
+    // {
+    //     public static void AddBooksConst(this IServiceCollection services)
+    //     {
+    //         services.AddSingleton<IBookService, BookService>();
+    //     }
+    // }
 }

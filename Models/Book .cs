@@ -1,6 +1,8 @@
-// using Microsoft.OpenApi.Models;
+using OurApi.Interfaces;
+
 namespace OurApi.Models {
-    public class Book
+    
+    public class Book: IGeneric
     {
         public int Id { get; set; }
         public string? Name { get; set; }

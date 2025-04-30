@@ -74,3 +74,81 @@ C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\D
 C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\firstProj.dll
 C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\refint\firstProj.dll
 C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 3\obj\Debug\net8.0\firstProj.pdb
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\appsettings.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\firstProj.staticwebassets.runtime.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\firstProj.exe
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\firstProj.deps.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\firstProj.runtimeconfig.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\firstProj.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\firstProj.pdb
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\firstProj.csproj.AssemblyReference.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\firstProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\firstProj.AssemblyInfoInputs.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\firstProj.AssemblyInfo.cs
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\firstProj.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\firstProj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\firstProj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\firstProj.sourcelink.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\staticwebassets\msbuild.firstProj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\staticwebassets\msbuild.build.firstProj.props
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.firstProj.props
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.firstProj.props
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\scopedcss\bundle\firstProj.styles.css
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\firstProj.csproj.CopyComplete
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\firstProj.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\refint\firstProj.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\firstProj.pdb
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\firstProj.genruntimeconfig.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\obj\Debug\net8.0\ref\firstProj.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\Data\book.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\שיעור 7\bin\Debug\net8.0\Data\user.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\firstProj.csproj.AssemblyReference.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\firstProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\firstProj.AssemblyInfoInputs.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\firstProj.AssemblyInfo.cs
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\firstProj.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\firstProj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\firstProj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\firstProj.sourcelink.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\appsettings.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\Data\book.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\Data\user.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\firstProj.staticwebassets.runtime.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\firstProj.exe
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\firstProj.deps.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\firstProj.runtimeconfig.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\firstProj.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\firstProj.pdb
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\staticwebassets\msbuild.firstProj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\staticwebassets\msbuild.build.firstProj.props
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.firstProj.props
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.firstProj.props
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\scopedcss\bundle\firstProj.styles.css
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\firstProj.csproj.CopyComplete
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\firstProj.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\refint\firstProj.dll
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\firstProj.pdb
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\firstProj.genruntimeconfig.cache
+C:\Users\1\Documents\מירי לימודים\יד\core\שלי\Web Api Project\obj\Debug\net8.0\ref\firstProj.dll
