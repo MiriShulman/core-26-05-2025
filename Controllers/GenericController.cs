@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using OurApi.Interfaces;
 using OurApi.Models;
@@ -9,16 +10,17 @@ namespace OurApi.Controllers;
 [Route("[controller]")]
 public class GenericController<T> : ControllerBase where T : IGeneric
 {
-    private readonly IService<T> service;
+    protected readonly IService<T> service;
 
     public GenericController(IService<T> service)
     {
         this.service = service;
     }
-
+    // [Authorize]
     [HttpGet]
     public ActionResult<IEnumerable<T>> GetAll()
     {
+        System.Console.WriteLine("get alllllll");
         return service.GetAll();
     }
 
@@ -34,17 +36,12 @@ public class GenericController<T> : ControllerBase where T : IGeneric
     [HttpPost]
     public ActionResult Post(T newItem)
     {
-        System.Console.WriteLine("------------////***************************");
         var newId = service.Insert(newItem);
-        System.Console.WriteLine("------------////***************************");
 
         if (newId == -1)
         {
-            System.Console.WriteLine("------------////***************************");
-
             return BadRequest();
         }
-        System.Console.WriteLine("------------////***************************");
 
         return CreatedAtAction(nameof(Post), new { Id = newId });
     }

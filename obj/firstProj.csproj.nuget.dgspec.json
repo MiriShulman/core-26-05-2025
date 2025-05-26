@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\firstProj.csproj": {}
+    "Z:\\B\\שולמן מירי\\core\\Web Api Project\\firstProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\firstProj.csproj": {
+    "Z:\\B\\שולמן מירי\\core\\Web Api Project\\firstProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\firstProj.csproj",
+        "projectUniqueName": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\firstProj.csproj",
         "projectName": "firstProj",
-        "projectPath": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\firstProj.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\obj\\",
+        "projectPath": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\firstProj.csproj",
+        "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
+        "outputPath": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\huser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,12 +39,26 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -73,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

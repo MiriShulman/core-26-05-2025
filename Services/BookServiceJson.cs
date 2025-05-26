@@ -57,10 +57,10 @@ namespace OurApi.Services {
             return true;
         }
 
-        public List<Book> GetBooks(int id){
-            List<Book> t = list.Where(l => l.Id == id).ToList();
-            return t;
-        }
+        // public List<Book> GetByUserId(int userId){
+            
+        // }
+
     }
 
     // public static class BooksUtilities

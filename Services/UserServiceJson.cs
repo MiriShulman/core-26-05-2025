@@ -4,6 +4,7 @@ using OurApi.Interfaces;
 using OurApi.Services;
 using System.Collections.Generic;
 using System.Linq;
+using OurApi.Controllers;
 
 namespace OurApi.Services {
 
@@ -32,11 +33,11 @@ namespace OurApi.Services {
                 System.Console.WriteLine("Error: this  address is required");
                 return -1;
             }
-            if (newUser.BirthDate.ToDateTime(TimeOnly.MinValue) >= DateTime.Now)
-            {
-                System.Console.WriteLine("Error: BirthDate must be in the past.");
-                return -1;
-            }
+            // if (newUser.BirthDate.ToDateTime(TimeOnly.MinValue) >= DateTime.Now)
+            // {
+            //     System.Console.WriteLine("Error: BirthDate must be in the past.");
+            //     return -1;
+            // }
             System.Console.WriteLine("insert 2");
             int maxId = list.Any() ? list.Max(u => u.Id) : 0;
             System.Console.WriteLine("insert 3");
@@ -51,15 +52,15 @@ namespace OurApi.Services {
         {
             if(user == null || user.Id!=id
                     || string.IsNullOrWhiteSpace(user.Name)
-                    || string.IsNullOrWhiteSpace(user.Address)               
-                    || user.BirthDate.ToDateTime(TimeOnly.MinValue) <= DateTime.Now)
+                    || string.IsNullOrWhiteSpace(user.Address))
+                    // || user.BirthDate.ToDateTime(TimeOnly.MinValue) <= DateTime.Now)
                 return false;
             var currentUser= list.FirstOrDefault(b=> b.Id==id);
             if(currentUser == null)
                 return false;
             currentUser.Name = user.Name;
             currentUser.Address = user.Address;
-            currentUser.BirthDate = user.BirthDate;
+            // currentUser.BirthDate = user.BirthDate;
             saveToFile();
             return true;
         }
@@ -67,6 +68,15 @@ namespace OurApi.Services {
         public List<Book> GetMyBooks(int id){
             return GetBooks(id);
         }
+
+        // public User ValidateUser(LoginRequest request)
+        // {
+        //     // חפש את המשתמש ברשימה
+        //     var user = list.FirstOrDefault(u => u.Name == request.Name && u.Password == request.Password);
+
+        //     // אם נמצא, החזר את המשתמש
+        //     return user;
+        // }
 
     }
 

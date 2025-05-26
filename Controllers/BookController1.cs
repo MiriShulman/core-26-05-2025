@@ -12,12 +12,13 @@ public class BookController1 : ControllerBase
     public BookController1(IService<Book> bookService){
         this.bookService=bookService;
     }
+    
     [HttpGet]
     public ActionResult<IEnumerable<Book>> Get()
     {
-
         return bookService.GetAll();
     }
+
     [HttpGet("{id}")]
     public ActionResult<Book> Get(int id)
     {

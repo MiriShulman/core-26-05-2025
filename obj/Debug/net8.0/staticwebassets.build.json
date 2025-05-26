@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3+otpbCsK1++D0m8nS/v3Mqw78qPLs9yw/uhm86a86E=",
+  "Hash": "RTFFSzm29RUoOGVKvJKnA17uRm2Pm3uZRZYSfRTKfiE=",
   "Source": "firstProj",
   "BasePath": "_content/firstProj",
   "Mode": "Default",
@@ -10,68 +10,322 @@
     {
       "Name": "firstProj\\wwwroot",
       "Source": "firstProj",
-      "ContentRoot": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\wwwroot\\",
+      "ContentRoot": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\wwwroot\\",
       "BasePath": "_content/firstProj",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\wwwroot\\css\\site.css",
+      "Identity": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\wwwroot\\css\\site.css",
       "SourceId": "firstProj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\wwwroot\\",
+      "ContentRoot": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\wwwroot\\",
       "BasePath": "_content/firstProj",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "zoxlk5se5i",
+      "Integrity": "06WPOIW5/mIO+16lWWyaJd8OL4taYJX8l7d24pTFPC4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\wwwroot\\index.html",
+      "Identity": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\wwwroot\\index.html",
       "SourceId": "firstProj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\wwwroot\\",
+      "ContentRoot": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\wwwroot\\",
       "BasePath": "_content/firstProj",
-      "RelativePath": "index.html",
+      "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "0wzde2pbld",
+      "Integrity": "8Fz0UCUrVvsKFjiuGXhlswE3UpPaujWpswhBhfrPDzQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\wwwroot\\js\\site.js",
+      "Identity": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\wwwroot\\js\\site.js",
       "SourceId": "firstProj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\core\\שלי\\Web Api Project\\wwwroot\\",
+      "ContentRoot": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\wwwroot\\",
       "BasePath": "_content/firstProj",
-      "RelativePath": "js/site.js",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ako47ranh3",
+      "Integrity": "WmgBohMQVEBGAQhO0sPSv+tMOG4jXjgQFpsxb2piTZA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"06WPOIW5/mIO+16lWWyaJd8OL4taYJX8l7d24pTFPC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 22:30:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-06WPOIW5/mIO+16lWWyaJd8OL4taYJX8l7d24pTFPC4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.zoxlk5se5i.css",
+      "AssetFile": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"06WPOIW5/mIO+16lWWyaJd8OL4taYJX8l7d24pTFPC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 22:30:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zoxlk5se5i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-06WPOIW5/mIO+16lWWyaJd8OL4taYJX8l7d24pTFPC4="
+        }
+      ]
+    },
+    {
+      "Route": "index.0wzde2pbld.html",
+      "AssetFile": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Fz0UCUrVvsKFjiuGXhlswE3UpPaujWpswhBhfrPDzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 22:30:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0wzde2pbld"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Fz0UCUrVvsKFjiuGXhlswE3UpPaujWpswhBhfrPDzQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Fz0UCUrVvsKFjiuGXhlswE3UpPaujWpswhBhfrPDzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 22:30:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Fz0UCUrVvsKFjiuGXhlswE3UpPaujWpswhBhfrPDzQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.ako47ranh3.js",
+      "AssetFile": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WmgBohMQVEBGAQhO0sPSv+tMOG4jXjgQFpsxb2piTZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 22:30:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ako47ranh3"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WmgBohMQVEBGAQhO0sPSv+tMOG4jXjgQFpsxb2piTZA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "Z:\\B\\שולמן מירי\\core\\Web Api Project\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WmgBohMQVEBGAQhO0sPSv+tMOG4jXjgQFpsxb2piTZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 22:30:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WmgBohMQVEBGAQhO0sPSv+tMOG4jXjgQFpsxb2piTZA="
+        }
+      ]
     }
   ]
 }

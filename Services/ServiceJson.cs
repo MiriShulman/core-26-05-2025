@@ -51,6 +51,11 @@ namespace OurApi.Services {
             return t;
         }
 
+// public List<Book> GetByUserId(int userId){
+//             List<T> t = list.Where(l => l.UserId == userId).ToList();
+//             return t;
+//         }
+
         public List<Book> GetBooks(int userId){
             return new List<Book>();
         }

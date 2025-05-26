@@ -2,22 +2,36 @@
     {
         "Id": 1,
         "Password": "DateTime.Now",
-        "Name": "מאיר כהן",
-        "address": "רחוב החרדים 1, ירושלים",
-        "BirthDate": "1985-01-01"
+        "Name": "\u05DE\u05D0\u05D9\u05E8 \u05DB\u05D4\u05DF",
+        "Address": "\u05E8\u05D7\u05D5\u05D1 \u05D4\u05D7\u05E8\u05D3\u05D9\u05DD 1, \u05D9\u05E8\u05D5\u05E9\u05DC\u05D9\u05DD",
+        "Type": "User"
     },
     {
-        "Id": 2, 
+        "Id": 2,
         "Password": "DateTime.Now",
-        "Name": "חיים לוי",
-        "address": "רחוב התורה 2, בני ברק",
-        "BirthDate": "1990-05-15"
+        "Name": "\u05D7\u05D9\u05D9\u05DD \u05DC\u05D5\u05D9",
+        "Address": "\u05E8\u05D7\u05D5\u05D1 \u05D4\u05EA\u05D5\u05E8\u05D4 2, \u05D1\u05E0\u05D9 \u05D1\u05E8\u05E7",
+        "Type": "User"
     },
     {
         "Id": 3,
         "Password": "DateTime.Now",
-        "Name": "יעקב פישר",
-        "address": "רחוב חסידים 3, מודיעין עילית",
-        "BirthDate": "1982-10-30"
+        "Name": "\u05D9\u05E2\u05E7\u05D1 \u05E4\u05D9\u05E9\u05E8",
+        "Address": "\u05E8\u05D7\u05D5\u05D1 \u05D7\u05E1\u05D9\u05D3\u05D9\u05DD 3, \u05DE\u05D5\u05D3\u05D9\u05E2\u05D9\u05DF \u05E2\u05D9\u05DC\u05D9\u05EA",
+        "Type": "User"
+    },
+    {
+        "Id": 4,
+        "Password": "327773750",
+        "Name": "Tovi Kuperman",
+        "Address": "Shaarey Teshuva 12",
+        "Type": "Admin"
+    },
+    {
+        "Id": 5,
+        "Password": "7680",
+        "Name": "\u05E9\u05DC\u05DE\u05D4",
+        "Address": "Rabbi Yehuda Hanassie 17",
+        "Type": "User"
     }
 ]
